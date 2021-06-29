@@ -9,6 +9,7 @@ function App() {
         <h1>
           AmplifyApp deploy test to AWS.
         </h1>
+        <p>Deploy test v.2.0</p>
         <a
           className="App-link"
           href="https://reactjs.org"
